@@ -120,6 +120,7 @@ Styles for time boxes (the div containing the input and the arrows)
 
 Styles for time input fields
 
+ * inputStyle - style to be applied to all time input fields
  * hourInputStyle
  * minuteInputStyle
  * secondInputStyle
